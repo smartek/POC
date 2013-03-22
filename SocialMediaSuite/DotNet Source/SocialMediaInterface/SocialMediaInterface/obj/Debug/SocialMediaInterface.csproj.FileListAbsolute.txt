@@ -1,0 +1,15 @@
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\bin\Debug\SocialMediaInterface.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\bin\Debug\SocialMediaInterface.pdb
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\bin\Debug\Facebook.xml
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\obj\Debug\SocialMediaInterface.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\obj\Debug\SocialMediaInterface.pdb
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\bin\Debug\Hammock.pdb
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\bin\Debug\TweetSharp.pdb
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SocialMediaInterface\obj\Debug\SocialMediaInterface.csprojResolveAssemblyReference.cache
+D:\Smartek\SMI\SocialMediaInterface\SocialMediaInterface\bin\Debug\SocialMediaInterface.dll
+D:\Smartek\SMI\SocialMediaInterface\SocialMediaInterface\bin\Debug\SocialMediaInterface.pdb
+D:\Smartek\SMI\SocialMediaInterface\SocialMediaInterface\obj\Debug\SocialMediaInterface.dll
+D:\Smartek\SMI\SocialMediaInterface\SocialMediaInterface\obj\Debug\SocialMediaInterface.pdb
+D:\Smartek\SMI\SocialMediaInterface\SocialMediaInterface\obj\Debug\SocialMediaInterface.csprojResolveAssemblyReference.cache
+D:\Smartek\SMI\SocialMediaInterface\SocialMediaInterface\bin\Debug\SocialMediaInterface.dll.config

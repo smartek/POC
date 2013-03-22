@@ -1,0 +1,5 @@
+#surefire
+#Tue Mar 12 15:14:29 UTC 2013
+user.dir=/home/raseeth/workspace/usersentimentmr
+localRepository=/home/raseeth/.m2/repository
+basedir=/home/raseeth/workspace/usersentimentmr

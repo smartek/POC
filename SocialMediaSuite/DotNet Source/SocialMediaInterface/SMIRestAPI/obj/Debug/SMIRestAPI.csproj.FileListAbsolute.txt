@@ -1,0 +1,25 @@
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\SMIRestAPI.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\SMIRestAPI.pdb
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\obj\Debug\SMIRestAPI.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\obj\Debug\SMIRestAPI.pdb
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\SocialMediaInterface.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\Facebook.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\TweetSharp.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\Newtonsoft.Json.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\Hammock.ClientProfile.dll
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\SocialMediaInterface.pdb
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\Facebook.xml
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\TweetSharp.pdb
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\bin\Newtonsoft.Json.xml
+C:\Users\abdulrasheethr\documents\visual studio 2010\Projects\SocialMediaInterface\SMIRestAPI\obj\Debug\SMIRestAPI.csprojResolveAssemblyReference.cache
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\bin\SMIRestAPI.dll
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\bin\SMIRestAPI.pdb
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\bin\SocialMediaInterface.dll
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\bin\Facebook.dll
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\bin\Newtonsoft.Json.dll
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\bin\TweetSharp.dll
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\bin\Hammock.ClientProfile.dll
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\bin\SocialMediaInterface.pdb
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\obj\Debug\SMIRestAPI.csprojResolveAssemblyReference.cache
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\obj\Debug\SMIRestAPI.dll
+D:\Smartek\SMI\SocialMediaInterface\SMIRestAPI\obj\Debug\SMIRestAPI.pdb

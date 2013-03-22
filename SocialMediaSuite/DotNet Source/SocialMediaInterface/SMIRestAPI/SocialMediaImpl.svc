@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SMIRestAPI.SocialMediaImpl" CodeBehind="SocialMediaImpl.svc.cs" %>
